@@ -1,5 +1,5 @@
 
-class ArraytoBST {
+class ArraytoBST     {
     public Node sortedArrayToBST(int[] nums) {
         // Code here
         if(nums==null || nums.length==0){
