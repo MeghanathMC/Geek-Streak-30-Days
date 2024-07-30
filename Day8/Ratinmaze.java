@@ -1,3 +1,6 @@
+//only main logic
+//driver code is not included
+//applicable to all
 public class Ratinmaze {
     public ArrayList<String> findPath(int[][] mat) {
         ArrayList<String> result = new ArrayList<>();

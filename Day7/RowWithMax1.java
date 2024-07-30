@@ -1,4 +1,8 @@
 public class RowWithMax1 {
+
+    //only main logic
+    //driver code is not included
+    //applicable to all 
     public int rowMax1(int arr[][]) {
         int max = Integer.MIN_VALUE;
         int index = -1;
